@@ -32,21 +32,20 @@
   <!-- ## General Information -->
 
   <!-- Begin with your company name, location, and miscellaneous information. -->
-  <title>Pizza Burger Studio</title>
-  <based-in>Paris, France</based-in>
-  <founding-date>February 6, 2014</founding-date>
-  <website>https://github.com/pixelnest/presskit.html</website>
-  <phone>+42 (3) 42 42 42 42 42</phone>
+  <title>MemeNgin</title>
+  <based-in>Anyang, South Korea</based-in>
+  <founding-date>September 1, 2020</founding-date>
+  <website>https://www.memengin.com/</website>
+  <contact>admin@memengin.com</contact>
 
   <!--
     For the address, use as many lines as you want.
     Don't forget to specify the country.
   -->
-  <address>
-    <line>42 street of Pixelnest</line>
-    <line>35000 Rennes</line>
-    <line>France</line>
-  </address>
+  <!-- <address>
+    <line>Anyang-si, Gyeonggi-do</line>
+    <line>South Korea</line>
+  </address> -->
 
   <!--
     This section allows you to set your social networks links.
@@ -54,36 +53,28 @@
 
     But Twitter and Facebook look like obvious choices. ;)
   -->
-  <socials>
+  <!-- <socials>
     <social>
       <name>Twitter @pizzaburgerstudio</name>
       <link>https://twitter.com/pizzaburgerstudio</link>
     </social>
-    <social>
-      <name>Facebook Page</name>
-      <link>https://facebook.com/pizzaburgerstudio</link>
-    </social>
-    <social>
-      <name>Skype</name>
-      <link>callto:pizzaburgerstudio</link>
-    </social>
-  </socials>
+  </socials> -->
 
   <!-- This field is the primary mail address you want to give to the press. -->
-  <press-contact>contact@pizzaburger.studio</press-contact>
+  <press-contact>admin@memengin.com</press-contact>
 
   <!--
     Use this tag to set your Google analytics tracking code.
 
     **It's, of course, completely optional.**
   -->
-  <analytics>UA-42424242-0</analytics>
+  <analytics></analytics>
 
   <!-- ## Description & History -->
 
   <!-- The description is a simple short block to describe your company or studio. Be brief. -->
   <description>
-    This is a fake presskit for a fake company called Pizza Burger Studio.
+    MemeNgin is a solo indie game and software developer based on South korea.
   </description>
 
   <!--
@@ -132,13 +123,16 @@
   -->
   <trailers>
     <trailer>
-      <name>Example from YouTube. Don't give a full link: the ID is enough</name>
-      <youtube>er416Ad3R1g</youtube>
+      <name>Cyber Blades Trailer</name>
+      <youtube>oupY4O7eUC4</youtube>
     </trailer>
     <trailer>
-      <name>Example from both YouTube and Vimeo</name>
-      <youtube>YH3c1QZzRK4</youtube>
-      <vimeo>108650530</vimeo>
+      <name>MemeNgin Trailer</name>
+      <youtube>RUZgg0FpW6U</youtube>
+    </trailer>
+    <trailer>
+      <name>MarksmanVR Trailer</name>
+      <youtube>3KobOiAhqsg</youtube>
     </trailer>
 
     <!--
@@ -159,7 +153,7 @@
 
     But don't add too much here: this is your company page, not a product one.
   -->
-  <awards>
+  <!-- <awards>
     <award>
       <description>An award</description>
       <info>Name, location, 29 April, 1988</info>
@@ -168,14 +162,14 @@
       <description>A nomination</description>
       <info>Name, location, 03 October, 1988</info>
     </award>
-  </awards>
+  </awards> -->
 
   <!--
     Quotes are used to show the appreciation of your users.
 
     Show something important, something nice, or something funny, for example.
   -->
-  <quotes>
+  <!-- <quotes>
     <quote>
       <description>There's not enough pizza in your life. It's never enough.</description>
       <name>@mrhelmut</name>
@@ -184,7 +178,7 @@
         https://twitter.com/mrhelmut/status/717276362814447616
       </link>
     </quote>
-  </quotes>
+  </quotes> -->
 
   <!--
     Need to link to a resource? A small product? An RSS feed?
@@ -193,7 +187,7 @@
 
     Put those here, in the `<additionals>` tag.
   -->
-  <additionals>
+  <!-- <additionals>
     <additional>
       <title>Patricia Pizza Twitter</title>
       <description>@patpiz at</description>
@@ -204,7 +198,7 @@
       <description>@bobburg at</description>
       <link>https://twitter.com/bobburg</link>
     </additional>
-  </additionals>
+  </additionals> -->
 
   <!-- ## Team & Contacts -->
 
@@ -221,26 +215,8 @@
   -->
   <credits>
     <credit>
-      <person>Patricia Pizza</person>
-      <role>Founder, Developer, Pizza Burger Studio</role>
-    </credit>
-    <credit>
-      <person>Bob Burger</person>
-      <role>Founder, Designer, Pizza Burger Studio</role>
-    </credit>
-    <credit>
-      <person>Jake Burgza</person>
-      <role>Artist, Collaborator</role>
-      <website>
-        http://www.jakeburgza.com
-      </website>
-    </credit>
-    <credit>
-      <person>Sophia Pizer</person>
-      <role>Musician, Collaborator</role>
-      <website>
-        http://www.sophiapizer.com
-      </website>
+      <person>Jaemoon Choi</person>
+      <role>Founder, Developer, MemeNgin</role>
     </credit>
   </credits>
 
@@ -254,9 +230,9 @@
   <contacts>
     <contact>
       <name>Inquiries</name>
-      <mail>contact@pizzaburger.studio</mail>
+      <mail>admin@memengin.com</mail>
     </contact>
-    <contact>
+    <!-- <contact>
       <name>Twitter</name>
       <link>
         https://twitter.com/pizzaburgerstudio
@@ -273,7 +249,7 @@
       <link>
         http://pizzaburger.studio
       </link>
-    </contact>
+    </contact> -->
   </contacts>
 
   <!--

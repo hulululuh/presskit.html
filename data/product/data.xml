@@ -30,8 +30,14 @@
   <!-- ## General Information -->
 
   <!-- Begin with your product name, website, and miscellaneous information. -->
-  <title>My Super Game</title>
-  <website>http://pizzaburger.studio/mysupergame</website>
+  <title>Cyber Blades</title>
+  <website>https://www.memengin.com/cyberblades</website>
+  
+  <!-- <title>MemeNgin</title>
+  <website>https://www.memengin.com/</website>
+  
+  <title>MarksmanVR</title>
+  <website>https://www.memengin.com/MarksmanVR</website> -->
 
   <!-- You can also add an URL to a request page for this product. A button will be displayed on the page. -->
   <press-copy-request>
@@ -43,7 +49,7 @@
 
     The `<based-in>` and `<website>` tags are optional.
   -->
-  <partners>
+  <!-- <partners>
     <partner>
       <type>Publisher</type>
       <title>Pixelnest Studio</title>
@@ -54,12 +60,11 @@
       <type>Distributor</type>
       <title>Pizza Oven LLC</title>
     </partner>
-  </partners>
+  </partners> -->
 
   <!-- Add as many dates, platforms and prices as needed. -->
   <release-dates>
-    <release-date>04 Feb, 2016</release-date>
-    <release-date>10 Oct, 2016</release-date>
+    <release-date>29 Jun, 2022</release-date>
   </release-dates>
 
   <!--
@@ -69,35 +74,20 @@
   -->
   <platforms>
     <platform>
-      <name>PC / Mac</name>
-      <link>http://itch.io/</link>
-    </platform>
-    <platform>
       <name>Steam</name>
-      <link>http://steampowered.com/</link>
+      <link>https://store.steampowered.com/app/2026470/Cyber_Blades/</link>
     </platform>
     <platform>
-      <name>Inc New Store (TBA)</name>
+      <name>Oculus - TBA</name>
+      <!-- <link>http://steampowered.com/</link> -->
     </platform>
   </platforms>
 
   <!-- Show the price of your product. Try to be exhaustive, it will be helpful for a reviewer. -->
   <prices>
     <price>
-      <currency>EUR</currency>
-      <value>20</value>
-    </price>
-    <price>
       <currency>USD</currency>
-      <value>20</value>
-    </price>
-    <price>
-      <currency>GBP</currency>
-      <value>16</value>
-    </price>
-    <price>
-      <currency>JPY</currency>
-      <value>2300</value>
+      <value>4.99</value>
     </price>
   </prices>
 
@@ -132,7 +122,7 @@
   <relations>
     <relation>
       <type>DLC</type>
-      <product>My Super Game: Ultimate Edition</product>
+      <product>Cyber Blades</product>
     </relation>
   </relations>
 
@@ -140,7 +130,7 @@
 
   <!-- Describe your product here. Be brief. -->
   <description>
-    Here goes a quick description of your product or game. Be concise and explain in very few words the concept or the gameplay and why it's really cool and why everyone should use or play it.
+    Cyber blades is a game where you fight back by slicing the enemy projectile with a melee weapons,It provides a unique experience that allows you to face hundreds of enemy archers with melee weapons. If you like VR workout, T-Rex and Synthwave this is a game for you!
   </description>
 
   <!--
@@ -156,7 +146,7 @@
     You can see an example of the `<histories>` block in the company page.
   -->
   <history>
-    Add some storytelling here. Not the scenario of your game, but rather some backgrounds behind the creation process: why are you making this game? Most projects starts with a cool story.
+    I am developing VR games and apps since 2016, We are constantly striving to make small but high-quality games. 'Cyber Blades' is a mini-game developed according to the developer's taste by combining the fun elements of VR games. I tried to make a game that can be enjoyed without the pressure that can help you achieve your daily goal of exercise.
   </history>
 
   <!-- ## Features -->
@@ -168,22 +158,13 @@
   -->
   <features>
     <feature>
-      List some "Key Sellings Points" to grab player's attention.
+      You can try various styles of Run by holding boxing gloves, (reverse grip-able) daggers, swords, Mace, and shields in each hand.
     </feature>
     <feature>
-      Don't be too generic ("pixel art graphics!"), don't be too pretentious ("most incredible game experience!").
+      By selecting the player's hit points, you can exercise continuously regardless of being hit, or try a perfectionist run that doesn't allow even a single hit. Also, you can adjust the intensity of the exercise by adjusting the frequency of appearance of enemies by adjusting the difficulty.
     </feature>
     <feature>
-      Also, people like numbers, so you can add some (450 weapons, hundreds of levels, dozens of hours of playtime!).
-    </feature>
-    <feature>
-      Need ideas? Maybe explain some game modes?
-    </feature>
-    <feature>
-      It would be a nice place to say something about multiplayer, if you have some.
-    </feature>
-    <feature>
-      Have you translated your game? (You probably should btw.)
+     At the end of each run, the ferocious T-Rex is on the lookout for your life. Infested with fury, this beast unleashes a variety of patterns of Deadly Attacks against players.
     </feature>
   </features>
 
@@ -204,19 +185,11 @@
   -->
   <trailers>
     <trailer>
-      <name>Release Trailer</name>
-      <youtube>EtXajayBLzw</youtube>
-    </trailer>
-    <trailer>
-      <name>Gameplay Video #2</name>
-      <youtube>EPNK1j3TMjU</youtube>
-    </trailer>
-    <trailer>
       <name>Early Access Trailer</name>
-      <youtube>EtyQMcc19xY</youtube>
+      <youtube>oupY4O7eUC4</youtube>
     </trailer>
     <trailer>
-      <name>Short gameplay preview: Burger vs Pizza</name>
+      <name>Early Access Trailer: Cyber Blades</name>
       <download>https://github.com/pixelnest/presskit.html</download>
     </trailer>
   </trailers>
@@ -235,12 +208,12 @@
     **Warning: widgets import many scripts and assets. This may have a penalty on your page size and responsiveness.**
   -->
   <widgets>
-    <appstore>950812012</appstore>
-    <playstore>com.noodlecake.altosadventure</playstore>
-    <steam>347160</steam>
-    <humble>steredenn/7SDLfk23hw</humble>
+    <!-- <appstore>950812012</appstore>
+    <playstore>com.noodlecake.altosadventure</playstore> -->
+    <steam>2026470</steam>
+    <!-- <humble>steredenn/7SDLfk23hw</humble>
     <itch>27992</itch>
-    <bandcamp>1135613467</bandcamp>
+    <bandcamp>1135613467</bandcamp> -->
   </widgets>
 
   <!-- ## Awards, quotes & links -->
@@ -250,20 +223,12 @@
 
     **Optional.**
   -->
-  <awards>
+  <!-- <awards>
     <award>
-      <description>Game of the year without a doubt</description>
-      <info>Saint-Père-Marc-En-Poulet (France), 04 February, 2016</info>
+      <description>Any awards would be appreciated</description>
+      <info>Somewhere, From now on</info>
     </award>
-    <award>
-      <description>Best soundtrack</description>
-      <info>A great game festival (World), 01 October, 2015</info>
-    </award>
-    <award>
-      <description>Best MYGAMENGINE game</description>
-      <info>Deep into the woods (Forest), 31 March, 2014</info>
-    </award>
-  </awards>
+  </awards> -->
 
   <!--
     Quotes are used to show the appreciation of your users.
@@ -274,22 +239,17 @@
   -->
   <quotes>
     <quote>
-      <description>This is my favorite game of all time.</description>
-      <name>Mum</name>
-      <website>At home</website>
-      <link>http://at.home/</link>
+      <description>I love sword stuff and i love vaporwave so i'm all in on this.</description>
+      <name>A Redditor</name>
+      <website>Reddit</website>
+      <link>https://www.reddit.com/r/VRGaming/comments/vira7v/fight_against_the_trex_in_vr_be_like/</link>
     </quote>
+
     <quote>
-      <description>A very serious quote you're very proud of by someone you respect.</description>
-      <name>Master</name>
-      <website>Master's website</website>
-      <link>http://mast.er/</link>
-    </quote>
-    <quote>
-      <description>10/10 would play it again and again.</description>
-      <name>A friendly anonymous Steam reviewer</name>
-      <website>Steam review</website>
-      <link>http://steam.review/</link>
+      <description>Game looks awesome, will definately buy it when it comes out!</description>
+      <name>Another Redditor</name>
+      <website>Reddit</website>
+      <link>https://www.reddit.com/r/VRGaming/comments/vira7v/fight_against_the_trex_in_vr_be_like/</link>
     </quote>
   </quotes>
 
@@ -302,7 +262,7 @@
 
     **Optional.**
   -->
-  <additionals>
+  <!-- <additionals>
     <additional>
       <title>Original Soundtrack (OST)</title>
       <description>Composed by an awesome musician. Listen for free, download for $3 at</description>
@@ -313,7 +273,7 @@
       <description>Announcement are exciting, so we usually make blog posts or news about it on</description>
       <link>http://pixelnest.io/journal/</link>
     </additional>
-  </additionals>
+  </additionals> -->
 
   <!-- ## About -->
 
@@ -332,13 +292,9 @@
   -->
   <abouts>
     <about>
-      <title>Pixelnest Studio</title>
-      <description>Pixelnest Studio is a small French studio which creates games, websites and apps. They made Steredenn, a roguelike-shmup in big pixels. They are also behind presskit.html, which you are probably using if you are reading this.</description>
-      <link>https://pixelnest.io/</link>
-    </about>
-    <about>
-      <title>Pizza Oven LLC</title>
-      <description>This is a fake company to illustrate the fact that you can have multiple about tags in your product page.</description>
+      <title>Cyber Blades</title>
+      <description>This is a presskit for a Cyber Blades developed by a solo-game developer called 'MemeNgin'.</description>
+      <link>http://memengin.com/</link>
     </about>
   </abouts>
 
@@ -355,17 +311,8 @@
   -->
   <credits>
     <credit>
-      <person>Krokmou</person>
-      <role>Bot Leader, Game Designer, Pixelnest Studio</role>
-    </credit>
-    <credit>
-      <person>Hiccup</person>
-      <role>Developer, Pixelnest Studio</role>
-    </credit>
-    <credit>
-      <person>Astrid</person>
-      <website>http://www.astridsupergame.com</website>
-      <role>Musician, Freelancer</role>
+      <person>Jaemoon Choi</person>
+      <role>Game Developer, MemeNgin</role>
     </credit>
   </credits>
 
@@ -379,25 +326,7 @@
   <contacts>
     <contact>
       <name>Inquiries</name>
-      <mail>mysupergame@pizzaburger.studio</mail>
-    </contact>
-    <contact>
-      <name>Twitter</name>
-      <link>
-        https://twitter.com/pizzaburgerstudio
-      </link>
-    </contact>
-    <contact>
-      <name>Facebook</name>
-      <link>
-        https://facebook.com/pizzaburgerstudio
-      </link>
-    </contact>
-    <contact>
-      <name>Web</name>
-      <link>
-        http://mysupergame.pizzaburger.studio/
-      </link>
+      <mail>admin@memengin.com</mail>
     </contact>
   </contacts>
 
